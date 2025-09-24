@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rn-bug-report",
-    "slug": "rn-bug-report",
+    "name": "reanimated-sectionlist-bug-report",
+    "slug": "reanimated-sectionlist-bug-report",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
